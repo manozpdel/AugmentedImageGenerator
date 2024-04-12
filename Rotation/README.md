@@ -18,7 +18,7 @@ The script defines a function `rotate_image(image, angle)` designed to rotate im
 ### Example:
 ```python
 # Define the angle by which you want to rotate the images
-rotation_angle = 10  # Adjust as per your requirement
+rotation_angle = 10  # Adjust as per your requirement from -10 to 10 degree
 ```
 
 ### Note:
